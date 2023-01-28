@@ -30,5 +30,4 @@ if (max>num3){
 else {
   megamax=num3;}
 
-
 Console.WriteLine($"Между числами {num1}, {num2} и {num3} - максимальное: {megamax}");
